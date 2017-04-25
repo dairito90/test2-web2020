@@ -1,0 +1,26 @@
+#container-circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+#circle {
+    display: flex;
+
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: #DCDCDC;
+    margin: 21px;
+}
+
+#circle2 {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    background-color: #DCDCDC;
+    margin: 21px;
+}
